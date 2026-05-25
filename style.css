@@ -1,0 +1,227 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.conteiner-2 {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: black;
+}
+
+.h4-1 {
+    background: linear-gradient(85deg, #fb63f9, #c2e534);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.rasm {
+    background: url(./orqa-fon.png) no-repeat center/cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.h4-1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h6::after {
+    content: "kk";
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.bock h1 {
+    color: #ffff;
+    font-size: 128px;
+    font-family: "Kalnia", serif;
+    font-weight: 500;
+}
+
+.ota-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.h1-1 span {
+    color: #C8A16E;
+}
+
+.h1-1 {
+    color: #FFFFFF;
+    font-family: "Kalnia", serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 52px;
+    margin-top: 50px;
+}
+
+.p-oilasi {
+    color: #FFFFFF;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.ota-3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.ota-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.j {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.j h2 {
+    color: #ffff;
+    font-size: 48px;
+    font-weight: 400;
+    font-family: "Kalnia", serif;
+}
+
+.h1-2 {
+    color: #FFFFFF;
+    font-size: 208px;
+    font-weight: 400;
+    font-family: "Kalnia", serif;
+}
+
+.h1-2 span {
+    color: #C8A16E;
+    font-weight: 400;
+    font-family: "Kalnia", serif;
+}
+
+.h3-1 {
+    font-size: 43px;
+    color: #ffff;
+    font-weight: 400;
+    font-family: "Kalnia", serif;
+    margin-top: 15px;
+}
+
+.ota-6 {
+    background: url("./kottarasm.png") no-repeat center/cover;
+    height: 100vh;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.ota-7 {
+    height: 788.0625px;
+    display: flex;
+    align-items: center;
+}
+
+.ota-8 {
+    background-color: #C8A16E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 788.0625px;
+}
+
+.ota-8 img {
+    box-shadow: 4px 5px 50px 8px;
+    border-radius: 20px;
+}
+
+.ota-9 {
+    background-color: #C8A16E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 788.0625px;
+}
+
+.ota-10 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ota-11 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #FFFFFF;
+    line-height: 120px;
+}
+
+.orqa {
+    background: url(./fon.png) no-repeat center/cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.ppl {
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-family: "Kalnia", serif;
+    margin-top: 150px;
+}
+
+.h5-1 {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Kalnia", serif;
+}
+
+.h1 {
+    font-size: 36px;
+    font-weight: 400;
+    font-family: "Kalnia", serif;
+}
+
+footer {
+    height: 788.0625px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.m {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Kalnia", serif;
+}
+
+.f {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
